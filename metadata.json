@@ -1,0 +1,8 @@
+{
+  "name": "CreatorSpace",
+  "description": "Curated creative services marketplace connecting teams with independent designers, developers, filmmakers, and brand strategists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
